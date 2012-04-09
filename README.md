@@ -6,9 +6,10 @@ You can see hot one of those looks like on my [blogger blog](http://programming.
 
 Go to Desing --> Add a Gadget --> Add HTML JavaScript and copy the below code and paste it here
 
-<script src="https://gist.github.com/2343752.js?file=gistfile1.html"></script>
 
-
+```HTML
+<a href="http://perlweekly.com" style=display:scroll;position:fixed;top:0px;right:0px;z-index:10; ><img src="https://github.com/tudorconstantin/Perl-Weekly-Ribbons/raw/master/ribbon%20transparent.png" alt="Featured in Perl Weekly" /></a> 
+```
 
 
 
