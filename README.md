@@ -4,7 +4,7 @@ Thank you [Eugen](http://eugenmales.deviantart.com/) for creating them.
 
 You can see hot one of those looks like on my [blogger blog](http://programming.tudorconstantin.com):
 
-Go to Desing --> Add a Gadget --> Add HTML JavaScript and copy the below code and paste it here
+Go to Design --> Add a Gadget --> Add HTML JavaScript and copy the below code and paste it here
 
 
 ```HTML
